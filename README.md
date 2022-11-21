@@ -1,6 +1,6 @@
 # Violences dans les transports en commun en Île-de-France
 
-![VSD PHOTO 1.HEIC](https://github.com/anglance/Violences_Transports/blob/main/VSD%20PHOTO%201.HEIC)
+![](https://github.com/anglance/Violences_Transports/blob/main/VSD%20Photo%201.png)
 
 ## Summary
 * [Introduction](#introduction)
