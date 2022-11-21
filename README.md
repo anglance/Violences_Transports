@@ -5,7 +5,7 @@
 ## Summary
 * [Introduction](#introduction)
 * [Analyse des données](#analyses-des-données)
-* [Usage des données](#usage-des-données)
+* [Usages des données](#usages-des-données)
 * [Limites](#limites)
 
 
