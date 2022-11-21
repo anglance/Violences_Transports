@@ -1,6 +1,6 @@
 # Violences dans les transports en commun en Île-de-France
 
-![](https://www.leparisien.fr/resizer/zkKDiadbk8uJzSrxhv1xZ96g07Q=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/JC5VXNGCHFGOHCHZXI6HCTRV5E.jpg)
+
 
 ## Summary
 * [Introduction](#introduction)
@@ -12,7 +12,7 @@
 
 ## Introduction
 
-![](https://static.actu.fr/uploads/2022/09/sl-1851-1-960x640.jpg)
+![](https://www.leparisien.fr/resizer/zkKDiadbk8uJzSrxhv1xZ96g07Q=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/JC5VXNGCHFGOHCHZXI6HCTRV5E.jpg)
 
 En France, le thème de l’insécurité demeure au cœur du débat public et fait régulièrement l’actualité des journaux où sur les plateaux télévisés. En 2021, elle est classée comme la deuxième préoccupation des Français d’après [la dernière étude](https://www.europe1.fr/societe/la-delinquance-est-la-deuxieme-preoccupation-des-francais-en-2021-4100114) du ministère de l’Intérieur. Cette étude statistique présente une série d’indicateurs illustrant l’évolution des faits de délinquance. On observe ainsi une tendance haussière de ce type de délits avec par exemple une [augmentation de 33%](https://www.interieur.gouv.fr/actualites/communiques/insecurite-et-delinquance-bilan-statistique-2021) les plaintes pour violences sexuelles. Parallèlement, les violences commises dans les transports en commun [ont également rebondi](https://mobile.interieur.gouv.fr/Interstats/Actualites/Les-vols-et-violences-enregistres-dans-les-reseaux-de-transports-en-commun-en-2021-Interstats-Analyse-N-48) après avoir connu un déclin pendant la crise sanitaire.
 
