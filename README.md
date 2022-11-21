@@ -22,7 +22,7 @@ Contrairement à une idée reçue, bien que le nombre de vols sans violences aug
 
 Ce rapport illustre également les spécificités des vols et violences enregistrés dans les transports en commun d’Île-de-France et hors Île-de-France. On observe par exemple que hors Île-de-France, 53 % des victimes de vols violents ont été enregistrées dans le réseau de surface tandis que cette proportion n’est que de 14 % en Île-de-France. Dans cette région, 57 % des vols violents sont enregistrés dans le réseau métropolitain.
 
-![]VSD1.png
+![](images/VSD1.png)
 
 ## Usages des données
 
