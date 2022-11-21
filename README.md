@@ -12,6 +12,8 @@
 
 ## Introduction
 
+![](https://static.actu.fr/uploads/2022/09/sl-1851-1-960x640.jpg)
+
 ## Analyses des donnéees
 
 La publication annuelle du rapport sur les vols et violences enregistrés dans les réseaux de transports en commun par le service statistique en charge de la sécurité intérieure (SSMI), permet en premier lieu, de comprendre sur une période donnée, l’évolution de ce type de violences par rapport aux violences enregistrées dans tout lieu confondu. Ce rapport se fonde sur les données issues des dépôts de plaintes recensés par la police et la gendarmerie nationale. Il nous permet de dégager différentes tendances quant à l’évolution des vols et violences enregistrés dans les réseaux de transports en commun entre 2016 et 2021.
