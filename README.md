@@ -4,8 +4,8 @@
 
 ## Summary
 * [Introduction](#introduction)
-* [Analyse des données](#analyses-des-données)
-* [Usage des données](#usage-des-données)
+* [Analyse des données](#analyses-des-donnees)
+* [Usage des données](#usage-des-donnees)
 * [Limites](#limites)
 
 
