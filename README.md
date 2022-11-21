@@ -33,7 +33,7 @@ Il est également important de souligner que les spécificités de la délinquan
 
 ![VSD3](https://user-images.githubusercontent.com/115630262/203140007-9dabfde1-3a34-4b27-a2eb-9fd1752c5729.png)
 
-* Répartition des victimes de vols et de violences dans les transports en commun en 2021 par âge, par sexe et par type de délinquance*
+**Répartition des victimes de vols et de violences dans les transports en commun en 2021 par âge, par sexe et par type de délinquance**
 
 ![VSD4](https://user-images.githubusercontent.com/115630262/203140067-b59ae0f6-a51e-48a5-a480-a6a841955405.png)
 
