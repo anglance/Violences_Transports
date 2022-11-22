@@ -80,7 +80,15 @@ Ces statistiques sont des sources importantes pour motiver et justifier les poli
 Ainsi pour les transports en commun, Île-de-France Mobilités va renforcer de 20 % les effectifs de sa brigade régionale de sécurité des transports afin de passer de 4 000 agents en  2022 à 5 000 en 2027[^1].
 [^1]: le-de-France : création d'une Brigade régionale de sécurité (1000 agents de sécurité à recrutés !). Consulté le 16.11.2022.
 
-![VSD4](https://www.iledefrance-mobilites.fr/images/portail-idfm/06fe543c-da8e-4a5e-9641-ac33d9bb2ef2_1360_largeur_image+article_brigade_surete.png?auto=compress&rect=0%2C0%2C1360%2C708&w=680&h=354)
+![VSD5](https://www.iledefrance-mobilites.fr/images/portail-idfm/06fe543c-da8e-4a5e-9641-ac33d9bb2ef2_1360_largeur_image+article_brigade_surete.png?auto=compress&rect=0%2C0%2C1360%2C708&w=680&h=354)
+
+De plus, il existe désormais un numéro d’appel unique ainsi que des bornes d’urgence pour signaler tout incident. Ce numéro permet aussi de signaler toutes agressions verbales. Notons que les statistiques mettent en évidence le nombre d’étrangers, notamment des touristes, victimes dans les transports parisiens. Il est donc important d’avoir un interlocuteur bilingue. 
+ 
+![VSD6](https://www.iledefrance-mobilites.fr/images/portail-idfm/c7a4aab8-75c5-4729-a822-6af47410d7f5_1360x715_post_actu.png?auto=compress&rect=0%2C0%2C1361%2C716&w=1360&h=715)
+
+Face à l’insécurité et le nombre de voyageurs croissants, Ile-de-France Mobilités qui est un établissement public régional, travaille en partenariat avec la Préfecture de Police de Paris pour la vidéo-protection ainsi qu’avec la Gendarmerie nationale. Nous pouvons aussi souligner les 2 000 patrouilles de gendarmerie dans les transports et les gares. Ces forces de l’ordre armées, aguerries et assermentées sont essentielles dans la lutte contre le terrorisme.
+
+Ainsi c’est donc tout un ensemble d’outils et d’acteurs qui sont déployés. Il sera donc intéressant d’observer ces mêmes statistiques dans une puis deux années afin de voir si ces efforts ont porté leurs fruits.
 
 
 
