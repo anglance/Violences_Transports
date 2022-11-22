@@ -30,6 +30,8 @@ Bien que cette base de données comporte des imperfections, elle demeure un outi
 
 ## Analyses des données
 
+
+
 La publication annuelle du rapport sur les vols et violences enregistrés dans les réseaux de transports en commun par le service statistique en charge de la sécurité intérieure (SSMI), permet en premier lieu, de comprendre sur une période donnée, l’évolution de ce type de violences par rapport aux violences enregistrées dans tout lieu confondu. Ce rapport se fonde sur les données issues des dépôts de plaintes recensés par la police et la gendarmerie nationale. Il nous permet de dégager différentes tendances quant à l’évolution des vols et violences enregistrés dans les réseaux de transports en commun entre 2016 et 2021.
 
 **Évolution du nombre de vols et de violences dans l'ensemble des transports en commun (France) de 2016 à 2021**
@@ -69,7 +71,14 @@ Enfin cette étude statistique présentée par le SSMI, met également en lumiè
 Cette étude met également en avant certaines récurrences dans le profil des mis en cause : 88 % sont des hommes dont 72 % d’entre eux ont entre 13 et 29 ans ce qui est une moyenne d’âge nettement inférieur à celui observé dans tout lieu confondu où 65 % d’entre eux ont entre 18 et 44 ans. 
 
 
+
 ## Usages des données
+
+
+Ces statistiques sont des sources importantes pour motiver et justifier les politiques de sécurité. Ainsi, ces données permettent d’orienter les décideurs politiques. Les enjeux de sécurité ont une importance croissante dans les débats publics. Le harcèlement de rue, les agressions dans les transports ou encore les menaces terroristes sont autant d’évènements qui nécessitent le déploiement de mesures de sécurités au quotidien pour protéger les citoyens.
+
+Ainsi pour les transports en commun, Île-de-France Mobilités va renforcer de 20 % les effectifs de sa brigade régionale de sécurité des transports afin de passer de 4 000 agents en  2022 à 5 000 en 2027[^1].
+[^1] le-de-France : création d'une Brigade régionale de sécurité (1000 agents de sécurité à recrutés !). Consulté le 16.11.2022.
 
 ## Limites
 
