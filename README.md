@@ -51,7 +51,9 @@ Ce rapport illustre également les spécificités des vols et violences enregist
 
 **Répartition du nombre de victimes de vols et de violences dans les transports en commun en 2021 par type de réseau**
 
-![VSDgraph3](VSDgraph3.png)
+![VSDgraph3a](VSDgraph3a.png)
+
+![VSDgraph3b](VSDgraph3b.png)
 
 ![VSD1](https://user-images.githubusercontent.com/115630262/203139290-348409bb-39cc-45f0-8c9a-db9b7b3353c1.png)
 
