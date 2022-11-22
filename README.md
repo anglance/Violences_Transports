@@ -34,12 +34,12 @@ La publication annuelle du rapport sur les vols et violences enregistrés dans l
 
 **Évolution du nombre de vols et de violences dans l'ensemble des transports en commun (France) de 2016 à 2021**
 
-![VSDgraphFR]https://github.com/anglance/Violences_Transports/blob/main/VSDgraphFR.png
+![VSDgraphFR](https://github.com/anglance/Violences_Transports/blob/main/VSDgraphFR.png)
 
 
 **Évolution du nombre de vols et de violences dans l'ensemble des transports en commun (Île-de-France) de 2016 à 2021**
 
-![VSDgraphIDF]https://github.com/anglance/Violences_Transports/blob/main/VSDgraphIDF.png
+![VSDgraphIDF](https://github.com/anglance/Violences_Transports/blob/main/VSDgraphIDF.png)
 
 Ce rapport distingue tout d’abord différentes catégories de faits de délinquance comme les vols avec et sans violences, les violences sexuelles, mais aussi les coups et blessures volontaires ou encore les outrages et violences contre un dépositaire de l'autorité publique. Nous pouvons ainsi remarquer que les vols sans violence constituent l'atteinte la plus caractéristique des faits de délinquance enregistrés en France et plus particulièrement dans les transports en commun. Ils représentent 79 % des victimes de vols et de violences dans les transports en commun.
 
