@@ -77,8 +77,8 @@ Cette étude met également en avant certaines récurrences dans le profil des m
 
 Ces statistiques sont des sources importantes pour motiver et justifier les politiques de sécurité. Ainsi, ces données permettent d’orienter les décideurs politiques. Les enjeux de sécurité ont une importance croissante dans les débats publics. Le harcèlement de rue, les agressions dans les transports ou encore les menaces terroristes sont autant d’évènements qui nécessitent le déploiement de mesures de sécurités au quotidien pour protéger les citoyens.
 
-Ainsi pour les transports en commun, Île-de-France Mobilités va renforcer de 20 % les effectifs de sa brigade régionale de sécurité des transports afin de passer de 4 000 agents en  2022 à 5 000 en 2027 [^1] .
-[^1] : le-de-France : création d'une Brigade régionale de sécurité (1000 agents de sécurité à recrutés !). Consulté le 16.11.2022.
+Ainsi pour les transports en commun, Île-de-France Mobilités va renforcer de 20 % les effectifs de sa brigade régionale de sécurité des transports afin de passer de 4 000 agents en  2022 à 5 000 en 2027[^1].
+[^1]: le-de-France : création d'une Brigade régionale de sécurité (1000 agents de sécurité à recrutés !). Consulté le 16.11.2022.
 
 ## Limites
 
