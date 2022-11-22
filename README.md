@@ -68,7 +68,7 @@ Il est également important de souligner que les spécificités de la délinquan
 ![VSD4](https://user-images.githubusercontent.com/115630262/203140067-b59ae0f6-a51e-48a5-a480-a6a841955405.png)
 
 ![VSDgraph5i](VSDgraph5i.png)
-
+ 
 Enfin cette étude statistique présentée par le SSMI, met également en lumière la nationalité des victimes qui sont le plus souvent étrangères. Elles représentent Île-de-France, 26 % des victimes en 2021 contre 22 % tout lieu confondu. Cependant, ce taux reste inférieur à celui observé avant la crise sanitaire, ce qui semble s’accorder avec la baisse de la fréquentation touristique observée depuis 2020. 
 Cette étude met également en avant certaines récurrences dans le profil des mis en cause : 88 % sont des hommes dont 72 % d’entre eux ont entre 13 et 29 ans ce qui est une moyenne d’âge nettement inférieur à celui observé dans tout lieu confondu où 65 % d’entre eux ont entre 18 et 44 ans. 
 
