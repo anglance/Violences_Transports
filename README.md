@@ -20,7 +20,7 @@ Dans ce climat d’insécurité auquel s’ajoute la menace de nouveaux attentat
 
 La capitale, comme de nombreuses grandes métropoles française, demeure dans le bas du [classement des villes les plus sûres en France](https://www.leparisien.fr/faits-divers/delinquance-quelles-villes-sont-les-plus-sures-de-france-notre-classement-exclusif-12-11-2022-INTRKKSGFFCXDPTI6EPTTW275M.php). Pour remédier à ce problème, l’enjeu de la sécurité dans les transports en commun est aujourd’hui central. La moitié des usagers de transport métropolitain disent avoir ressenti en 2020 [une forme d’insécurité](https://france3-regions.francetvinfo.fr/paris-ile-de-france/metro-et-rer-securite-et-sentiment-d-insecurite-dans-les-transports-les-chiffres-cles-en-ile-de-france-2629484.html) dans les transports en commun et ont considéré que la présence d’agents de sécurité dans le réseau était insuffisante. Ce constat est également partagé par les touristes de la capitale, régulièrement pris pour cible dans les transports en commun. De plus, la sécurité dans les transports tend à devenir un sujet de plus en plus important avec  l'accueil des Jeux Olympiques de Paris 2024. Avec la montée des violences, la présidente de la région Île-de-France, Valérie Pécresse, a annoncé [le recrutement d’un millier d’agents de sécurité supplémentaires](https://www.20minutes.fr/paris/4004326-20221009-ile-france-mobilites-va-recruter-1-000-agents-securite-supplementaires-annonce-valerie-pecresse). Elle a également évoqué son souhait de créer une police régionale des transports pour faire face à la montée des violences. 
 
-**Déliquance dans les transports par répartition géographique**
+**Déliquance dans les transports en commun par répartition géographique**
 
 ![VSDgraph6](VSDgraph6.png)
 
