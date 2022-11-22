@@ -32,6 +32,10 @@ Bien que cette base de données comporte des imperfections, elle demeure un outi
 
 La publication annuelle du rapport sur les vols et violences enregistrés dans les réseaux de transports en commun par le service statistique en charge de la sécurité intérieure (SSMI), permet en premier lieu, de comprendre sur une période donnée, l’évolution de ce type de violences par rapport aux violences enregistrées dans tout lieu confondu. Ce rapport se fonde sur les données issues des dépôts de plaintes recensés par la police et la gendarmerie nationale. Il nous permet de dégager différentes tendances quant à l’évolution des vols et violences enregistrés dans les réseaux de transports en commun entre 2016 et 2021.
 
+**Évolution du nombre de vols et de violences dans l'ensemble des transports en commun (France) de 2016 à 2021**
+
+![VSDgraph1](https://github.com/anglance/Violences_Transports/blob/main/VSDgraph1.png)
+
 Ce rapport distingue tout d’abord différentes catégories de faits de délinquance comme les vols avec et sans violences, les violences sexuelles, mais aussi les coups et blessures volontaires ou encore les outrages et violences contre un dépositaire de l'autorité publique. Nous pouvons ainsi remarquer que les vols sans violence constituent l'atteinte la plus caractéristique des faits de délinquance enregistrés en France et plus particulièrement dans les transports en commun. Ils représentent 79 % des victimes de vols et de violences dans les transports en commun.
 
 Contrairement à une idée reçue, bien que le nombre de vols sans violences augmentent légèrement en 2021 (+3 % par rapport à 2020), leur taux reste inférieur à celui recensé avant la crise sanitaire. On observe en parallèle de ce phénomène, une nette diminution des vols violents depuis 2018, que cela soit dans les transports en commun ou dans tout lieu confondu. Ces deux tendances contrastent avec le nombre de victimes de violences sexuelles qui connaît une très forte augmentation depuis 2016, que ce soit dans les transports en commun (+32 %) ou dans le reste de la France (+33 %).
