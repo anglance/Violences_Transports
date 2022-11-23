@@ -59,19 +59,12 @@ Ce rapport illustre également les spécificités des vols et violences enregist
 
 ![VSDgraph3b](VSDgraph3b.png)
 
-![VSD1](https://user-images.githubusercontent.com/115630262/203139290-348409bb-39cc-45f0-8c9a-db9b7b3353c1.png)
-
-![VSD2](https://user-images.githubusercontent.com/115630262/203139959-5e3575af-e096-4e18-a773-72b5ddb36214.png)
 
 Il est également important de souligner que les spécificités de la délinquance dans les transports en commun s’illustrent notamment dans le profil des victimes. L'âge et le sexe des victimes dans les transports en commun sont similaires à ceux des victimes des mêmes atteintes tout lieu confondu. Cette tendance s’observe en Île-de-France ainsi que dans les autres régions. On remarque par exemple que les femmes représentent 61 % des victimes de vols ou violences dans les transports en commun ce qui est un taux supérieur à celui observé dans tout lieu confondu (53 %). Par ailleurs, ce sont les 18-29 ans qui sont le plus souvent visées par ce type de violences. On remarque cependant des disparités quant au type de violences subies par les femmes. Si nous observons en détail le cas des violences sexuelles on peut remarquer que les femmes sont nettement plus exposées aux violences sexuelles qu’à des coups et blessures volontaire par exemple. 
 
 **Répartition des victimes de vols et de violences dans les transports en commun en 2021 par âge, par sexe et par type de délinquance**
 
-![VSD3](https://user-images.githubusercontent.com/115630262/203140007-9dabfde1-3a34-4b27-a2eb-9fd1752c5729.png)
-
 ![VSDgraph4i](VSDgraph4i.png)
-
-![VSD4](https://user-images.githubusercontent.com/115630262/203140067-b59ae0f6-a51e-48a5-a480-a6a841955405.png)
 
 ![VSDgraph5ii](VSDgraph5ii.png)
  
