@@ -1,5 +1,5 @@
 # Violences dans les transports en commun en Île-de-France
-### Par Lance Christopher ANG, Kenza COUTARD, Samuel MARTINET, Virgile ROSSILLON
+Par Lance Christopher ANG, Kenza COUTARD, Samuel MARTINET, Virgile ROSSILLON
 
 ![](https://www.leparisien.fr/resizer/zkKDiadbk8uJzSrxhv1xZ96g07Q=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/JC5VXNGCHFGOHCHZXI6HCTRV5E.jpg)
 
