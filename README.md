@@ -10,8 +10,6 @@ Par Lance Christopher ANG, Kenza COUTARD, Samuel MARTINET, Virgile ROSSILLON
 * [Limites](#limites)
 
 
-![Base](Base de données Violences dans les Transports.xlsx)
-
 
 ## Introduction
 
